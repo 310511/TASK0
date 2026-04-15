@@ -2,10 +2,10 @@
 
 ## Live Demo
 
-> **Deployed App:** [https://primetradeaitask.netlify.app/login](https://primetradeaitask.netlify.app/login)
+> **Deployed App:** [https://primetradeaitask.netlify.app/](https://primetradeaitask.netlify.app/)
 
 <p align="center">
-  <a href="https://primetradeaitask.netlify.app/login"><strong>🚀 LIVE DEMO — CLICK TO OPEN</strong></a>
+  <a href="https://primetradeaitask.netlify.app/"><strong>🚀 LIVE DEMO — CLICK TO OPEN</strong></a>
 </p>
 
 ## 1. Project Overview
