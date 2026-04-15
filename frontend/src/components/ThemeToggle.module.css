@@ -1,0 +1,36 @@
+.toggle {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 999;
+  width: 52px;
+  height: 52px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: var(--bg-card);
+  box-shadow: var(--shadow-md);
+  cursor: pointer;
+  color: var(--text-primary);
+  display: grid;
+  place-items: center;
+  transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
+}
+
+.toggle:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.toggle:focus-visible {
+  outline: 2px solid var(--border-focus);
+  outline-offset: 2px;
+}
+
+.icon {
+  font-size: 1.25rem;
+  transition: transform var(--transition), opacity var(--transition);
+}
+
+.toggle:hover .icon {
+  transform: rotate(12deg) scale(1.08);
+}
