@@ -1,5 +1,13 @@
 # Scalable REST API with Auth & Role-Based Access
 
+## Live Demo
+
+> **Deployed App:** [https://primetradeaitask.netlify.app/login](https://primetradeaitask.netlify.app/login)
+
+<p align="center">
+  <a href="https://primetradeaitask.netlify.app/login"><strong>🚀 LIVE DEMO — CLICK TO OPEN</strong></a>
+</p>
+
 ## 1. Project Overview
 This project is a production-structured full-stack task management app with Firebase Authentication, Supabase PostgreSQL, role-based access control, Swagger docs, Docker support, and a polished React UI.
 
