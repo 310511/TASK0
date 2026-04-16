@@ -93,7 +93,8 @@ docker-compose up --build
 ```
 
 ## 8. API Documentation URL
-[http://localhost:5001/api/docs](http://localhost:5001/api/docs)
+- Local Swagger UI: [http://localhost:5001/api/docs](http://localhost:5001/api/docs)
+- Deployed Swagger UI: [https://task0-production-4936.up.railway.app/api/docs](https://task0-production-4936.up.railway.app/api/docs)
 
 ## 9. Postman API Testing
 Postman files are included at the project root:
